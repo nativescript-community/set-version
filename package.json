@@ -1,0 +1,28 @@
+{
+  "name": "nativescript-set-version",
+  "version": "6.0.0",
+  "description": "Set the version in package.json, app.gradle and info.plist",
+  "main": "index.js",
+  "bin": {
+    "setVersion": "./lib/index.js",
+    "set-version": "./lib/index.js"
+  },
+  "author": "Javier Castro",
+  "license": "ISC",
+  "dependencies": {
+    "nativescript-hook": "^0.2.5",
+    "simple-plist": "^1.1.0",
+    "chalk": "^3.0.0",
+    "gradle-to-js": "^2.0.0",
+    "manifest-android": "^0.1.1",
+    "plist": "^3.0.1"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
