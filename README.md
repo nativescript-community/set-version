@@ -2,7 +2,7 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This tool allows you to easily update the version of a React Native application.
+This tool allows you to easily update the version of a Nativescript application.
 It will update the following files if found:
 
 - **./package.json**
