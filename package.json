@@ -1,11 +1,13 @@
 {
   "name": "nativescript-set-version",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "description": "Set the version in package.json, app.gradle and info.plist",
   "main": "index.js",
   "bin": {
-    "setVersion": "./lib/index.js",
-    "set-version": "./lib/index.js"
+    "getVersion": "./lib/get_version.js",
+    "get-version": "./lib/get_version.js",
+    "setVersion": "./lib/set_version.js",
+    "set-version": "./lib/set_version.js"
   },
   "author": "Javier Castro",
   "license": "ISC",
