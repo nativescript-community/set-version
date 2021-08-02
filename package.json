@@ -1,6 +1,6 @@
 {
   "name": "nativescript-set-version",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "description": "Set the version in package.json, app.gradle and info.plist",
   "main": "index.js",
   "bin": {
