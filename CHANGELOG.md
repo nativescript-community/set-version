@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/nativescript-community/set-version/compare/v1.0.2...v1.0.3) (2024-07-11)
+
+
+### Bug Fixes
+
+* cleanup and updated dependencies ([cf7e282](https://github.com/nativescript-community/set-version/commit/cf7e282a1759a4a7e00618b484ca760b170fc59d))
+
 ### 1.0.2 (2024-07-11)
 
 
