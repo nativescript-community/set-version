@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/nativescript-community/set-version/compare/v1.0.3...v1.0.4) (2024-09-25)
+
+
+### Bug Fixes
+
+* ios set-version fix ([42e87c3](https://github.com/nativescript-community/set-version/commit/42e87c39a0d27f2e3d4a1e8c0e14880265b58dcb))
+* multiple path fixes ([8ebb51f](https://github.com/nativescript-community/set-version/commit/8ebb51fc124b1184392cc6dbabc694f195d23a1f))
+
 ### [1.0.3](https://github.com/nativescript-community/set-version/compare/v1.0.2...v1.0.3) (2024-07-11)
 
 
