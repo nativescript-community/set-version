@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/farfromrefug/nativescript-set-version/compare/v1.0.4...v1.0.5) (2024-10-19)
+
+
+### Bug Fixes
+
+* set-version was not correctly setting version for minor/major ([6d809b3](https://github.com/farfromrefug/nativescript-set-version/commit/6d809b3892e5bbb255d1137722cb5f7b78cdd0ec))
+
 ### [1.0.4](https://github.com/nativescript-community/set-version/compare/v1.0.3...v1.0.4) (2024-09-25)
 
 
